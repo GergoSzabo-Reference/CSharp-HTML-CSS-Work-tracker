@@ -1,0 +1,15 @@
+Nuget packages:
+Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Design
+Install-Package Microsoft.EntityFrameworkCore.Tools
+
+Install-Package Swashbuckle.AspNetCore
+
+Hivatkozás: hogy megkapja az adott projekt modelljeit
+
+nullable kikapcsolva
+
+appsettings.json
+Database=AutoszereloDb
+Trusted_Connection=True win auth
