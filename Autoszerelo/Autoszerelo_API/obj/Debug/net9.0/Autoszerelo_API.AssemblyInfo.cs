@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Autoszerelo_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1df0621d2e63308a5e754f64e55156a7384059")]
 [assembly: System.Reflection.AssemblyProductAttribute("Autoszerelo_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Autoszerelo_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

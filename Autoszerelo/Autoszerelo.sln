@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoszerelo_API", "Autoszerelo_API\Autoszerelo_API.csproj", "{34547B1C-C84A-49CC-B8F3-908096B766C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoszerelo_UI", "Autoszerelo_UI\Autoszerelo_UI.csproj", "{212CECBD-76D8-4E91-83DB-3901B50945D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoszerelo_Shared", "Autoszerelo_Shared\Autoszerelo_Shared.csproj", "{BB9AA096-F908-42E1-ABE2-974265AD186C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{34547B1C-C84A-49CC-B8F3-908096B766C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34547B1C-C84A-49CC-B8F3-908096B766C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34547B1C-C84A-49CC-B8F3-908096B766C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212CECBD-76D8-4E91-83DB-3901B50945D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212CECBD-76D8-4E91-83DB-3901B50945D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212CECBD-76D8-4E91-83DB-3901B50945D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212CECBD-76D8-4E91-83DB-3901B50945D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9AA096-F908-42E1-ABE2-974265AD186C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9AA096-F908-42E1-ABE2-974265AD186C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9AA096-F908-42E1-ABE2-974265AD186C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9AA096-F908-42E1-ABE2-974265AD186C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
